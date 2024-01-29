@@ -15,6 +15,7 @@ struct Landmark: Identifiable {
     let description: String
 }
 
+
 let sudburyNickel = Landmark(
     name: "Sudbury Nickel",
     image: "SudburyNickel",
