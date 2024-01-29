@@ -22,7 +22,6 @@ struct ListView: View {
                 
             }
             .navigationTitle("Landmarks")
-            .navigationTitle("Landmarks")
                         
         }
         
