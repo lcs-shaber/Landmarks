@@ -15,6 +15,7 @@
 		E073003F2B680ABD00C8D71D /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E073003E2B680ABD00C8D71D /* ListView.swift */; };
 		E07300412B680D9000C8D71D /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E07300402B680D9000C8D71D /* ListItemView.swift */; };
 		E07300432B680EBD00C8D71D /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E07300422B680EBD00C8D71D /* GalleryItemView.swift */; };
+		E07300452B68103800C8D71D /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E07300442B68103800C8D71D /* GalleryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		E073003E2B680ABD00C8D71D /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		E07300402B680D9000C8D71D /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		E07300422B680EBD00C8D71D /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
+		E07300442B68103800C8D71D /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				E073003E2B680ABD00C8D71D /* ListView.swift */,
 				E07300402B680D9000C8D71D /* ListItemView.swift */,
 				E07300422B680EBD00C8D71D /* GalleryItemView.swift */,
+				E07300442B68103800C8D71D /* GalleryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E07300452B68103800C8D71D /* GalleryView.swift in Sources */,
 				E07300432B680EBD00C8D71D /* GalleryItemView.swift in Sources */,
 				E07300412B680D9000C8D71D /* ListItemView.swift in Sources */,
 				E073003F2B680ABD00C8D71D /* ListView.swift in Sources */,
